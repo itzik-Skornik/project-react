@@ -20,7 +20,7 @@ You may also see any lint errors in the console.
 <hr/>
 שם משתמש וסיסמא לדוגמא:
 <br/>
-שם משתמש : Bred
+שם משתמש : Bret
 <br/>
 סיסמא:  3159
 
